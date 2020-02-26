@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>邓肯的个人博客</title>
+  
+  <subtitle>天之生人也，与草木无异。若遗留一二有用事业，与草木同生，即不与草木同腐</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-02-26T11:48:29.046Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>DengKen</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第一篇文章</title>
+    <link href="http://yoursite.com/2020/02/26/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <id>http://yoursite.com/2020/02/26/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
+    <published>2020-02-26T02:32:59.000Z</published>
+    <updated>2020-02-26T11:48:29.046Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+      <category term="邓肯的博客" scheme="http://yoursite.com/tags/%E9%82%93%E8%82%AF%E7%9A%84%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+</feed>
