@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-02-27T13:22:36.797Z</updated>
+  <updated>2020-02-27T13:26:31.968Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://yoursite.com/2020/02/26/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
     <id>http://yoursite.com/2020/02/26/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
     <published>2020-02-26T02:32:59.000Z</published>
-    <updated>2020-02-27T13:22:36.797Z</updated>
+    <updated>2020-02-27T13:26:31.968Z</updated>
     
-    <content type="html"><![CDATA[<center>  <img data-src="/2020/02/26/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/beautiman.png" class></center> <p><center></center></p><p></p><p align="center"><br>你不喜欢的每一天不是你的<br></p><p>你仅仅度过了它，无论你过着什么样的<br></p><p>没有喜悦的生活，你都没有生活。<br></p><p>你无需去爱，或者去饮酒，或者微笑。<br></p><p>阳光倒映在水坑里<br></p><p>就足够了，如果它令你愉悦。<br></p><p>幸福的人，把他们的欢乐<br></p><p>放在微小的事物里，永远也不会剥夺<br></p><p>属于每一天的，天然的财富。</p><p>&lt;/p&gt;<br>&lt;/center&gt;</p><script type="math/tex; mode=display">\begin{equation} \label{eq1}e=mc^2\end{equation}</script>]]></content>
+    <content type="html"><![CDATA[<center>  <img data-src="/2020/02/26/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/beautiman.png" class></center> <center>你不喜欢的每一天不是你的<br>你仅仅度过了它，无论你过着什么样的<br>没有喜悦的生活，你都没有生活。<br>你无需去爱，或者去饮酒，或者微笑。<br>阳光倒映在水坑里<br>就足够了，如果它令你愉悦。<br>幸福的人，把他们的欢乐<br>放在微小的事物里，永远也不会剥夺<br>属于每一天的，天然的财富。<br>$$\begin{equation} \label{eq1}e=mc^2\end{equation}$$</center>]]></content>
     
     <summary type="html">
     
@@ -33,7 +33,9 @@
 &lt;img data-src=&quot;/2020/02/26/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/beautiman.png&quot; class&gt;
 &lt;/center&gt; 
 
-&lt;p&gt;&lt;center&gt;&lt;/center&gt;&lt;/
+&lt;center&gt;
+
+你不喜欢的每一天不是你的
       
     
     </summary>
